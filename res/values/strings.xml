@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="description">Lite version of Info Wallpaper. It shows battery, time and date.</string>
+    <string name="wallpaper">Info Wallpaper Lite</string>
+    <string name="liveInfoSettings">Settings</string>
+    <string name="backgroundTitle">Background</string>
+    <string name="backgroundSummary">Solid color or image from the Gallery</string>
+    <string name="timeFormatTitle">Use 24h format</string>
+    <string name="timeFormatOn">24h</string>
+    <string name="timeFormatOff">12h</string>
+    <string name="timeFormatSummary">24h or 12h format</string>
+    <string name="textSettingsTitle">Text</string>
+    <string name="textTransparencyTitle">Text transparency</string>
+    <string name="batteryTextTitle">Battery status</string>
+    <string name="dateTextTitle">Date</string>
+    <string name="dateFormatTitle">Date Format</string>
+    <string name="timeTextTitle">Time</string>
+    <string name="font">Font</string>
+    <string name="textColor">Text color</string>
+    <string name="textPosition">Text position</string>
+    <string name="textSize">Text size</string>
+    <string name="textTransparency">Text transparency</string>
+    <string name="showBatteryTitle">Battery status</string>
+    <string name="showBatteryOn">Show battery status</string>
+    <string name="showBatteryOff">Hide battery status</string>
+    <string name="showBatteryTextTitle">Add title before status</string>
+    <string name="showBatteryTextOn">Write \"Battery:\" and \"Charging:\"</string>
+    <string name="showBatteryTextOff">Hide \"Battery:\" and \"Charging:\"</string>
+    <string name="batteryText">Battery:</string>
+    <string name="chargeText">Charging:</string>
+    <string name="showDateTitle">Date</string>
+    <string name="showDateOn">Show date</string>
+    <string name="showDateOff">Hide date</string>
+    <string name="showTimeTitle">Time</string>
+    <string name="showTimeOn">Show time</string>
+    <string name="showTimeOff">Hide time</string>
+    <string name="textAlign">Align text</string>
+    <string name="batteryTextSummary">Text settings for the battery status</string>
+    <string name="dateTextSummary">Text settings for the date</string>
+    <string name="timeTextSummary">Text settings for the time</string>
+</resources>

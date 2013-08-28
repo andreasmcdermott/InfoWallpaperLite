@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="description">Lite-version av Info Wallpaper. Visar batteristatus, tid och datum.</string>
+    <string name="wallpaper">Info Wallpaper Lite</string>
+    <string name="liveInfoSettings">Inställningar</string>
+    <string name="backgroundTitle">Bakgrund</string>
+    <string name="backgroundSummary">Färg eller bild från galleriet</string>
+    <string name="timeFormatTitle">Använd 24h-format</string>
+    <string name="timeFormatOn">24h</string>
+    <string name="timeFormatOff">12h</string>
+    <string name="timeFormatSummary">24h- eller 12h-format</string>
+    <string name="textSettingsTitle">Text</string>
+    <string name="textTransparencyTitle">Texttransparans</string>
+    <string name="batteryTextTitle">Batteristatus</string>
+    <string name="dateTextTitle">Datum</string>
+    <string name="dateFormatTitle">Datumformat</string>
+    <string name="timeTextTitle">Tid</string>
+    <string name="font">Font</string>
+    <string name="textColor">Textfärg</string>
+    <string name="textPosition">Textposition</string>
+    <string name="textSize">Textstorlek</string>
+    <string name="textTransparency">Texttransparans</string>
+    <string name="showBatteryTitle">Batteristatus</string>
+    <string name="showBatteryOn">Visa batteristatus</string>
+    <string name="showBatteryOff">Göm batteristatus</string>
+    <string name="showBatteryTextTitle">Visa titel framför batteristatus</string>
+    <string name="showBatteryTextOn">Skriv \"Batteri:\" och \"Laddar:\"</string>
+    <string name="showBatteryTextOff">Göm \"Batteri:\" och \"Laddar:\"</string>
+    <string name="batteryText">Batteri:</string>
+    <string name="chargeText">Laddar:</string>
+    <string name="showDateTitle">Datum</string>
+    <string name="showDateOn">Visa datum</string>
+    <string name="showDateOff">Göm datum</string>
+    <string name="showTimeTitle">Tid</string>
+    <string name="showTimeOn">Visa tid</string>
+    <string name="showTimeOff">Göm tid</string>
+    <string name="textAlign">Positionera text</string>
+    <string name="batteryTextSummary">Inställningar för batteritext</string>
+    <string name="dateTextSummary">Inställningar för datumtext</string>
+    <string name="timeTextSummary">Inställningar för tidtext</string>
+</resources>

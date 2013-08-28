@@ -1,0 +1,60 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string-array name="fontEntries">
+			<item>"Android Default"</item>
+	        <item>"Bebas"</item>
+	        <item>"Daniel Bold"</item>
+	        <item>"Sansation"</item>
+	        <item>"Walkway Black"</item>
+	</string-array>
+	<string-array name="fontValues">
+			<item>""</item>
+	        <item>"bebas.ttf"</item>
+	        <item>"danielbd.ttf"</item>
+	        <item>"Sansation_Regular.ttf"</item>
+	        <item>"Walkway_Black.ttf"</item>
+	</string-array>
+	
+	<string-array name="backgroundEntries">
+		    <item>"Bild från galleriet"</item>
+			<item>"Svart"</item>
+			<item>"Vit"</item>
+	</string-array>
+	<string-array name="backgroundValues">
+			<item>"image"</item>
+			<item>"black"</item>
+			<item>"white"</item>	        
+	</string-array>
+	
+	<string-array name="textColorEntries">
+			<item>"Färg"</item>
+			<item>"Svart"</item>
+			<item>"Vit"</item>
+	</string-array>
+	<string-array name="textColorValues">
+			<item>"color"</item>
+			<item>"black"</item>
+			<item>"white"</item>
+	</string-array>
+	
+	<string-array name="textAlignEntries">
+	        <item>"Vänster"</item>
+	        <item>"Centrerad"</item>
+	        <item>"Höger"</item>
+	</string-array>
+	<string-array name="textAlignValues">
+	        <item>"left"</item>
+	        <item>"center"</item>
+	        <item>"right"</item>
+	</string-array>
+	
+	<string-array name="dateFormatEntries">
+	        <item>"mm/dd/åååå"</item>
+	        <item>"åååå-mm-dd"</item>
+	        <item>"dd/mm/åååå"</item>
+	</string-array>
+	<string-array name="dateFormatValues">
+	        <item>"mm/dd/yyyy"</item>
+	        <item>"yyyy-mm-dd"</item>
+	        <item>"dd/mm/yyyy"</item>
+	</string-array>
+</resources>
